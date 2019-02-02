@@ -1,1 +1,1 @@
-Working on sec-branch for a while
+Working on sec-branch for a while. Now I merged file2.txt changes to the master branch
